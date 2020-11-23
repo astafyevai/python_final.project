@@ -1,10 +1,10 @@
 number,name,author,text,year of first publication
-1,"""Гроза""",А. Н. Островский ,https://raw.githubusercontent.com/astafyevai/python_final.project/main/groza.txt,1859
-2,"""Ионыч""",А. П. Чехов ,https://raw.githubusercontent.com/astafyevai/python_final.project/main/ionych.txt,1898
-3,"""Обломов""",И. А. Гончаров ,https://raw.githubusercontent.com/astafyevai/python_final.project/main/oblomov.txtt,1857
-4,"""Отцы и дети""",И. С. Тургенев ,https://raw.githubusercontent.com/astafyevai/python_final.project/main/otcydeti.txtt,1862
-5,"""Война и мир""",Л. Н. Толстой ,https://raw.githubusercontent.com/astafyevai/python_final.project/main/voynamir.txtt,1865
-6,"""Преступление и наказание""",Ф. М. Достоевский ,https://raw.githubusercontent.com/astafyevai/python_final.project/main/prestuplenie.txtt,1866
-7,"""Мастер и Маргарита""",М. А. Булгаков ,https://raw.githubusercontent.com/astafyevai/python_final.project/main/masterimargarita.txt,1937
+"1,""""""Мастер и Маргарита"""""",М. А. Булгаков ,https://raw.githubusercontent.com/astafyevai/python_final.project/main/masterimargarita.txt,1937"
+"2,""""""Гроза"""""",А. Н. Островский ,https://raw.githubusercontent.com/astafyevai/python_final.project/main/groza.txt,1859"
+"3,""""""Ионыч"""""",А. П. Чехов ,https://raw.githubusercontent.com/astafyevai/python_final.project/main/ionych.txt,1898"
+"4,""""""Обломов"""""",И. А. Гончаров ,https://raw.githubusercontent.com/astafyevai/python_final.project/main/oblomov.txtt,1857"
+"5,""""""Отцы и дети"""""",И. С. Тургенев ,https://raw.githubusercontent.com/astafyevai/python_final.project/main/otcydeti.txtt,1862"
+"6,""""""Война и мир"""""",Л. Н. Толстой ,https://raw.githubusercontent.com/astafyevai/python_final.project/main/voynamir.txtt,1865"
+"7,""""""Преступление и наказание"""""",Ф. М. Достоевский ,https://raw.githubusercontent.com/astafyevai/python_final.project/main/prestuplenie.txtt,1866"
 8,Лирика,А. А. Фет,https://raw.githubusercontent.com/astafyevai/python_final.project/main/fet.txt,1870
 9,Лирика,Ф. И. Тютчев,https://raw.githubusercontent.com/astafyevai/python_final.project/main/tutchev.txtt,1860
